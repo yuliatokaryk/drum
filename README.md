@@ -4,4 +4,4 @@
 ```bash
 git clone git@github.com:yuliatokaryk/drum.git
 ```
-#### 2. Open dicee.html in your browser
+#### 2. Open index.html in your browser
